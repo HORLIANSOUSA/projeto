@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title">
+  <title>Ondas abstratas</title>
+  <rect width="900" height="650" fill="#d7e9e7"/>
+  <path d="M-70 370C83 204 185 210 328 337s262 133 396-4c79-81 153-107 253-91v408H-70Z" fill="#7faeaa"/>
+  <path d="M-70 475c176-170 285-146 425-44 118 86 222 83 347-39 75-73 158-84 275-21v279H-70Z" fill="#467c78"/>
+  <path d="M-70 569c156-83 255-74 382-13 136 66 267 58 391-32 91-66 163-75 275-30v156H-70Z" fill="#1e4a4e"/>
+  <circle cx="190" cy="155" r="62" fill="#e88358"/>
+  <path d="M190 93a62 62 0 0 1 0 124 62 62 0 0 0 0-124Z" fill="#f2b27a"/>
+</svg>
