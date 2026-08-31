@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title">
+  <title>Sol nascendo atrás de montanhas</title>
+  <rect width="900" height="650" fill="#d8e7dc"/>
+  <circle cx="650" cy="250" r="132" fill="#e88358"/>
+  <circle cx="650" cy="250" r="92" fill="#f4b178"/>
+  <path d="M0 475 185 305l112 84 177-176 148 144 99-85 179 203Z" fill="#315d50"/>
+  <path d="m0 540 211-145 122 84 157-105 133 88 112-67 165 121v134H0Z" fill="#1e2d2a"/>
+  <path d="M0 586c145-36 252-8 374 11 164 26 285-7 526-32v85H0Z" fill="#b5cbbf"/>
+</svg>
